@@ -1,0 +1,5 @@
+gcc helloworld.c -o helloworld
+./helloworld
+
+
+Hello, World!
